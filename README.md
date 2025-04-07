@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Projetos Cibersegurança:</h2>
 
-- <b>SIEM -AZURE SENTINEL</b>
-  - [Criando mapa com geolocalização em tempo real de ataques a VM](https://github.com/FelipePassosCyber/AzureSentinel-SIEM-LAB)
+- <b>SIEM - AZURE SENTINEL</b>
+  - [Azure Sentinel LAB](https://github.com/FelipePassosCyber/AzureSentinel-SIEM-LAB)
 
 <h2>📝 Certificações</h2>
 
