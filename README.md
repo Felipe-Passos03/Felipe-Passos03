@@ -7,6 +7,9 @@
 
 - <b>ACTIVE DIRECTORY</b>
   - [Active Directory Lab](https://github.com/Felipe-Passos03/ActiveDirectoryLab)
+ 
+- <b>Implementando Fortigate com funcionalidade de SD-WAN</b>
+  - [Active Directory Lab](https://github.com/Felipe-Passos03/ActiveDirectoryLab)
 
 <h2>📝 Certificações</h2>
 
