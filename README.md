@@ -4,6 +4,9 @@
 
 - <b>SIEM - AZURE SENTINEL</b>
   - [Azure Sentinel LAB](https://github.com/FelipePassosCyber/AzureSentinel-SIEM-LAB)
+  - 
+ - <b>ACTIVE DIRECTORY</b>
+  - [Active Directory Lab](https://github.com/FelipePassosCyber/AzureSentinel-SIEM-LAB)
 
 <h2>📝 Certificações</h2>
 
