@@ -12,7 +12,7 @@
   - [Fortigate LAB](https://github.com/Felipe-Passos03/Fortigate-Implementando-SD-WAN)
 
 - <b>NESSUS - Escaneando vulnerabilidades na VM</b>
-  - [NESSUS LAB](https://github.com/Felipe-Passos03/Fortigate-Implementando-SD-WAN)
+  - [NESSUS LAB](https://github.com/Felipe-Passos03/Nessus-Lab)
 
 <h2>📝 Certificações</h2>
 
