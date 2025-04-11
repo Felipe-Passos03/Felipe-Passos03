@@ -11,6 +11,9 @@
 - <b>Implementando Fortigate com funcionalidade de SD-WAN</b>
   - [Fortigate LAB](https://github.com/Felipe-Passos03/Fortigate-Implementando-SD-WAN)
 
+- <b>NESSUS - Escaneando vulnerabilidades na VM</b>
+  - [NESSUS LAB](https://github.com/Felipe-Passos03/Fortigate-Implementando-SD-WAN)
+
 <h2>📝 Certificações</h2>
 
 - [FCF CYBERSECURITY](https://imgur.com/a/fupjArz)
