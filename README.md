@@ -2,13 +2,14 @@
 
 **`Desenvolvedor .NET Core`**
 
-Desenvolvedor .NET com 3 anos de experiência em desenvolvimento de aplicações web utilizando C#, ASP.NET Core, Entity Framework e SQL Server. Ao longo da minha trajetória, participei de projetos focados em soluções escaláveis, com boas práticas de código, princípios SOLID e arquitetura em camadas. Tenho familiaridade com controle de versão utilizando Git, além de integração com APIs RESTful e uso de ferramentas como Azure DevOps para versionamento, CI/CD e gerenciamento de tarefas.
+Desenvolvedor .NET com 3 anos de experiência em desenvolvimento de aplicações web utilizando C#, ASP.NET Core, Entity Framework e SQL Server. Ao longo da minha trajetória, participei de projetos focados em soluções escaláveis, com boas práticas de código, princípios SOLID e arquitetura em camadas. Tenho familiaridade com controle de versão utilizando Git, além de integração com APIs RESTful e uso de ferramentas como Azure DevOps para versionamento, CI/CD e gerenciamento de tarefas.  
 Atualmente, estou me atualizando no ecossistema .NET, praticando projetos pessoais e contribuindo com soluções voltadas à melhoria de performance, segurança e organização de código.
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
+<!-- ícones -->
 <img 
     align="left" 
     alt="C#"
@@ -65,14 +66,15 @@ Atualmente, estou me atualizando no ecossistema .NET, praticando projetos pessoa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
----
 
 <br clear="left"/>
-## 🔗 Repositórios
+
 ---
+
+## 🔗 Repositórios
+
 Acesse o repositório completo aqui 
 👉 [API de Ecommerce-Pedidos](https://github.com/Felipe-Passos03/3-Api-EcomerceProdutos)
 
 <br/>
 <br/>
-
