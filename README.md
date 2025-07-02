@@ -71,10 +71,11 @@ Atualmente, estou me atualizando no ecossistema .NET, praticando projetos pessoa
 
 ---
 
-## 🔗 Repositórios
+## 🔗 Meus repositórios
 
 Acesse o repositório completo aqui <br>
--[API Ecommerce-Produtos](https://github.com/Felipe-Passos03/3-Api-EcomerceProdutos)
+
+- [API Ecommerce-Produtos](https://github.com/Felipe-Passos03/3-Api-EcomerceProdutos)
 
 <br/>
 <br/>
