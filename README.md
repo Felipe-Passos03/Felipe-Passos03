@@ -74,7 +74,7 @@ Atualmente, estou me atualizando no ecossistema .NET, praticando projetos pessoa
 ## 🔗 Repositórios
 
 Acesse o repositório completo aqui <br>
-👉 [API Ecommerce-Pedidos](https://github.com/Felipe-Passos03/3-Api-EcomerceProdutos)
+-[API Ecommerce-Produtos](https://github.com/Felipe-Passos03/3-Api-EcomerceProdutos)
 
 <br/>
 <br/>
