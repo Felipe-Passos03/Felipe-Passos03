@@ -1,4 +1,4 @@
-# 🧖‍♂️ Felipe Passos
+# 💻👨‍💻 Felipe Passos
 
 **`Desenvolvedor .NET Core`**
 
