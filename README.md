@@ -71,7 +71,7 @@ Atualmente, estou me atualizando no ecossistema .NET, praticando projetos pessoa
 
 ---
 
-## 🔗 Meus repositórios
+## 🔗 Meus projetos
 
 Acesse o repositório completo aqui <br>
 
